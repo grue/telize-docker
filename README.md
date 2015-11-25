@@ -1,2 +1,2 @@
 # telize-docker
-Dockerfile for running telize
+forked from jfrazelle/dockerfiles
